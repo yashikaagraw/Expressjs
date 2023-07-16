@@ -1,0 +1,39 @@
+{
+    "user" : [
+        {
+            "id": 1,
+            "name": "Ram",
+            "roll no.": "one"
+        },
+        {
+            "id": 2,
+            "name": "Shyam",
+            "roll no.": "two" 
+        },
+        {
+            "id": 3,
+            "name": "Prashant",
+            "roll no.": "three"
+        },
+        {
+            "id": 4,
+            "name": "Shanta",
+            "roll no.": "four"
+        }
+    ],
+    "instructor" : [
+        {
+            "id": 1,
+            "name": "Sydney"
+        
+        },
+        {
+            "id": 2,
+            "name": "Nihal"
+            
+        }
+        
+    ]
+
+   
+}
